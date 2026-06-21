@@ -70,10 +70,6 @@ This Arduino-based project automates the process of detecting, sorting, and rewa
 - Change the `if ((metalCount + plasticCount) >= 3)` condition to adjust the number of bottles needed to trigger a reward.
 - Modify servo angles in `sorterServo.write()` and `coinDispenser.write()` if your hardware setup differs.
 
-## License
-
-MIT License
-
 ---
 
 Created by Marc R. Melgar  
